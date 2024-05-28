@@ -1,4 +1,4 @@
-<h2 align="left">Hey there! 👋 I'm Teja Vardhan, an enthusiastic learner hailing from India 🇮🇳</h2>
+
 
 ###
 
